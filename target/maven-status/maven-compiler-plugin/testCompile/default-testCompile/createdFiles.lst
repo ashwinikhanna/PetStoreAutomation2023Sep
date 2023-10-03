@@ -1,0 +1,10 @@
+api\test\DDTest.class
+api\utilities\ExtentReportManager.class
+api\utilities\DataProviders.class
+api\endpoints\UserEndPoints.class
+api\payload\User.class
+api\endpoints\__UserEndPoints.class
+api\test\UserTest.class
+api\utilities\ExcelUtility.class
+api\test\JSonSchemaValidator.class
+api\endpoints\__Routes.class

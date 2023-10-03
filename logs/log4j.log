@@ -1,0 +1,126 @@
+[INFO ] 2023-10-02 10:18:41.881 [main] UserTest - ******* creating user *********
+[INFO ] 2023-10-02 10:18:44.931 [main] UserTest - ******* user created *********
+[INFO ] 2023-10-02 10:18:44.956 [main] UserTest - ******* reading user info *********
+[INFO ] 2023-10-02 10:18:46.277 [main] UserTest - ******* user info read and displayed *********
+[INFO ] 2023-10-02 10:18:46.290 [main] UserTest - ******* updating user info *********
+[INFO ] 2023-10-02 10:18:48.827 [main] UserTest - ******* user info updated *********
+[INFO ] 2023-10-02 10:18:48.845 [main] UserTest - ******* deleting user info *********
+[INFO ] 2023-10-02 10:18:50.156 [main] UserTest - ******* user deleted *********
+[INFO ] 2023-10-02 11:46:44.039 [main] UserTest - ******* creating user *********
+[INFO ] 2023-10-02 11:46:47.084 [main] UserTest - ******* user created *********
+[INFO ] 2023-10-02 11:46:47.105 [main] UserTest - ******* reading user info *********
+[INFO ] 2023-10-02 11:46:48.405 [main] UserTest - ******* user info read and displayed *********
+[INFO ] 2023-10-02 11:46:48.419 [main] UserTest - ******* validating json schema *********
+[INFO ] 2023-10-02 11:46:50.353 [main] UserTest - ******* json schema validated *********
+[INFO ] 2023-10-02 11:46:50.358 [main] UserTest - ******* updating user info *********
+[INFO ] 2023-10-02 11:46:52.877 [main] UserTest - ******* user info updated *********
+[INFO ] 2023-10-02 11:46:52.887 [main] UserTest - ******* deleting user info *********
+[INFO ] 2023-10-02 11:46:54.148 [main] UserTest - ******* user deleted *********
+[INFO ] 2023-10-02 11:48:04.058 [main] UserTest - ******* creating user *********
+[INFO ] 2023-10-02 11:48:07.171 [main] UserTest - ******* user created *********
+[INFO ] 2023-10-02 11:48:07.183 [main] UserTest - ******* reading user info *********
+[INFO ] 2023-10-02 11:48:08.473 [main] UserTest - ******* user info read and displayed *********
+[INFO ] 2023-10-02 11:48:08.483 [main] UserTest - ******* validating json schema *********
+[INFO ] 2023-10-02 11:48:09.959 [main] UserTest - ******* json schema validated *********
+[INFO ] 2023-10-02 11:48:09.965 [main] UserTest - ******* updating user info *********
+[INFO ] 2023-10-02 11:48:12.496 [main] UserTest - ******* user info updated *********
+[INFO ] 2023-10-02 11:48:12.505 [main] UserTest - ******* deleting user info *********
+[INFO ] 2023-10-02 11:48:13.780 [main] UserTest - ******* user deleted *********
+[INFO ] 2023-10-02 11:48:40.614 [main] UserTest - ******* creating user *********
+[INFO ] 2023-10-02 11:48:43.518 [main] UserTest - ******* user created *********
+[INFO ] 2023-10-02 11:48:43.534 [main] UserTest - ******* reading user info *********
+[INFO ] 2023-10-02 11:48:44.815 [main] UserTest - ******* user info read and displayed *********
+[INFO ] 2023-10-02 11:48:44.822 [main] UserTest - ******* validating json schema *********
+[INFO ] 2023-10-02 11:48:46.280 [main] UserTest - ******* json schema validated *********
+[INFO ] 2023-10-02 11:48:46.283 [main] UserTest - ******* updating user info *********
+[INFO ] 2023-10-02 11:48:48.797 [main] UserTest - ******* user info updated *********
+[INFO ] 2023-10-02 11:48:48.820 [main] UserTest - ******* deleting user info *********
+[INFO ] 2023-10-02 11:48:50.072 [main] UserTest - ******* user deleted *********
+[INFO ] 2023-10-02 17:00:40.494 [main] UserTest - ******* creating user *********
+[INFO ] 2023-10-02 17:00:43.647 [main] UserTest - ******* user created *********
+[INFO ] 2023-10-02 17:00:43.676 [main] UserTest - ******* reading user info *********
+[INFO ] 2023-10-02 17:00:44.983 [main] UserTest - ******* user info read and displayed *********
+[INFO ] 2023-10-02 17:00:44.993 [main] UserTest - ******* validating json schema *********
+[INFO ] 2023-10-02 17:00:46.609 [main] UserTest - ******* json schema validated *********
+[INFO ] 2023-10-02 17:00:46.621 [main] UserTest - ******* updating user info *********
+[INFO ] 2023-10-02 17:00:49.142 [main] UserTest - ******* user info updated *********
+[INFO ] 2023-10-02 17:00:49.158 [main] UserTest - ******* deleting user info *********
+[INFO ] 2023-10-02 17:00:50.448 [main] UserTest - ******* user deleted *********
+[INFO ] 2023-10-02 17:03:32.686 [main] UserTest - ******* creating user *********
+[INFO ] 2023-10-02 17:03:35.709 [main] UserTest - ******* user created *********
+[INFO ] 2023-10-02 17:03:35.722 [main] UserTest - ******* reading user info *********
+[INFO ] 2023-10-02 17:03:37.015 [main] UserTest - ******* user info read and displayed *********
+[INFO ] 2023-10-02 17:03:37.022 [main] UserTest - ******* validating json schema *********
+[INFO ] 2023-10-02 17:03:38.544 [main] UserTest - ******* json schema validated *********
+[INFO ] 2023-10-02 17:03:38.549 [main] UserTest - ******* updating user info *********
+[INFO ] 2023-10-02 17:03:41.067 [main] UserTest - ******* user info updated *********
+[INFO ] 2023-10-02 17:03:41.082 [main] UserTest - ******* deleting user info *********
+[INFO ] 2023-10-02 17:03:42.344 [main] UserTest - ******* user deleted *********
+[INFO ] 2023-10-03 05:44:06.953 [main] UserTest - ******* creating user *********
+[INFO ] 2023-10-03 05:44:08.266 [main] UserTest - ******* user created *********
+[INFO ] 2023-10-03 05:44:08.268 [main] UserTest - ******* reading user info *********
+[INFO ] 2023-10-03 05:44:09.514 [main] UserTest - ******* user info read and displayed *********
+[INFO ] 2023-10-03 05:44:09.517 [main] UserTest - ******* validating json schema *********
+[INFO ] 2023-10-03 05:44:11.017 [main] UserTest - ******* json schema validated *********
+[INFO ] 2023-10-03 05:44:11.019 [main] UserTest - ******* updating user info *********
+[INFO ] 2023-10-03 05:44:13.504 [main] UserTest - ******* user info updated *********
+[INFO ] 2023-10-03 05:44:13.506 [main] UserTest - ******* deleting user info *********
+[INFO ] 2023-10-03 05:44:14.804 [main] UserTest - ******* user deleted *********
+[INFO ] 2023-10-03 05:46:49.561 [main] UserTest - ******* creating user *********
+[INFO ] 2023-10-03 05:46:50.838 [main] UserTest - ******* user created *********
+[INFO ] 2023-10-03 05:46:50.840 [main] UserTest - ******* reading user info *********
+[INFO ] 2023-10-03 05:46:52.066 [main] UserTest - ******* user info read and displayed *********
+[INFO ] 2023-10-03 05:46:52.077 [main] UserTest - ******* validating json schema *********
+[INFO ] 2023-10-03 05:46:53.576 [main] UserTest - ******* json schema validated *********
+[INFO ] 2023-10-03 05:46:53.583 [main] UserTest - ******* updating user info *********
+[INFO ] 2023-10-03 05:46:56.069 [main] UserTest - ******* user info updated *********
+[INFO ] 2023-10-03 05:46:56.074 [main] UserTest - ******* deleting user info *********
+[INFO ] 2023-10-03 05:46:57.355 [main] UserTest - ******* user deleted *********
+[INFO ] 2023-10-03 05:47:48.159 [main] UserTest - ******* creating user *********
+[INFO ] 2023-10-03 05:47:51.167 [main] UserTest - ******* user created *********
+[INFO ] 2023-10-03 05:47:51.177 [main] UserTest - ******* reading user info *********
+[INFO ] 2023-10-03 05:47:52.503 [main] UserTest - ******* user info read and displayed *********
+[INFO ] 2023-10-03 05:47:52.506 [main] UserTest - ******* validating json schema *********
+[INFO ] 2023-10-03 05:47:53.935 [main] UserTest - ******* json schema validated *********
+[INFO ] 2023-10-03 05:47:53.938 [main] UserTest - ******* updating user info *********
+[INFO ] 2023-10-03 05:47:56.434 [main] UserTest - ******* user info updated *********
+[INFO ] 2023-10-03 05:47:56.437 [main] UserTest - ******* deleting user info *********
+[INFO ] 2023-10-03 05:47:57.680 [main] UserTest - ******* user deleted *********
+[INFO ] 2023-10-03 05:48:42.921 [main] UserTest - ******* creating user *********
+[INFO ] 2023-10-03 05:48:45.926 [main] UserTest - ******* user created *********
+[INFO ] 2023-10-03 05:48:45.948 [main] UserTest - ******* reading user info *********
+[INFO ] 2023-10-03 05:48:47.242 [main] UserTest - ******* user info read and displayed *********
+[INFO ] 2023-10-03 05:48:47.248 [main] UserTest - ******* validating json schema *********
+[INFO ] 2023-10-03 05:48:48.781 [main] UserTest - ******* json schema validated *********
+[INFO ] 2023-10-03 05:48:48.784 [main] UserTest - ******* updating user info *********
+[INFO ] 2023-10-03 05:48:51.284 [main] UserTest - ******* user info updated *********
+[INFO ] 2023-10-03 05:48:51.287 [main] UserTest - ******* deleting user info *********
+[INFO ] 2023-10-03 05:48:52.532 [main] UserTest - ******* user deleted *********
+[INFO ] 2023-10-03 06:15:20.974 [main] UserTest - ******* creating user *********
+[INFO ] 2023-10-03 06:15:25.217 [main] UserTest - ******* user created *********
+[INFO ] 2023-10-03 06:15:25.231 [main] UserTest - ******* reading user info *********
+[INFO ] 2023-10-03 06:15:26.566 [main] UserTest - ******* user info read and displayed *********
+[INFO ] 2023-10-03 06:15:26.573 [main] UserTest - ******* validating json schema *********
+[INFO ] 2023-10-03 06:15:28.123 [main] UserTest - ******* json schema validated *********
+[INFO ] 2023-10-03 06:15:28.125 [main] UserTest - ******* updating user info *********
+[INFO ] 2023-10-03 06:15:30.932 [main] UserTest - ******* deleting user info *********
+[INFO ] 2023-10-03 06:17:01.673 [main] UserTest - ******* creating user *********
+[INFO ] 2023-10-03 06:17:04.839 [main] UserTest - ******* user created *********
+[INFO ] 2023-10-03 06:17:04.856 [main] UserTest - ******* reading user info *********
+[INFO ] 2023-10-03 06:17:06.193 [main] UserTest - ******* user info read and displayed *********
+[INFO ] 2023-10-03 06:17:06.199 [main] UserTest - ******* validating json schema *********
+[INFO ] 2023-10-03 06:17:07.704 [main] UserTest - ******* json schema validated *********
+[INFO ] 2023-10-03 06:17:07.707 [main] UserTest - ******* updating user info *********
+[INFO ] 2023-10-03 06:17:10.258 [main] UserTest - ******* user info updated *********
+[INFO ] 2023-10-03 06:17:10.263 [main] UserTest - ******* deleting user info *********
+[INFO ] 2023-10-03 06:17:11.555 [main] UserTest - ******* user deleted *********
+[INFO ] 2023-10-03 06:31:11.497 [main] UserTest - ******* creating user *********
+[INFO ] 2023-10-03 06:31:14.816 [main] UserTest - ******* user created *********
+[INFO ] 2023-10-03 06:31:14.833 [main] UserTest - ******* reading user info *********
+[INFO ] 2023-10-03 06:31:16.210 [main] UserTest - ******* user info read and displayed *********
+[INFO ] 2023-10-03 06:31:16.213 [main] UserTest - ******* validating json schema *********
+[INFO ] 2023-10-03 06:31:17.707 [main] UserTest - ******* json schema validated *********
+[INFO ] 2023-10-03 06:31:17.709 [main] UserTest - ******* updating user info *********
+[INFO ] 2023-10-03 06:31:20.228 [main] UserTest - ******* user info updated *********
+[INFO ] 2023-10-03 06:31:20.230 [main] UserTest - ******* deleting user info *********
+[INFO ] 2023-10-03 06:31:21.500 [main] UserTest - ******* user deleted *********
